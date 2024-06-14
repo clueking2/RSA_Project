@@ -1,5 +1,5 @@
 # START HERE
-The RSA Project is a project from my class Discrete Structures. This project is about using RSA encryption to break codes and building thw tools needed to use RSA to encode and decode coded messages. 
+The RSA Project is a project from my class Discrete Structures. This project is about using RSA encryption to break codes and building the tools needed to use RSA to encode and decode coded messages. 
 
 The project is linked here: https://github.com/clueking2/RSA_Project
 
